@@ -21,7 +21,7 @@ ANVIN-SAAS is a user-friendly web application designed to help company administr
 
 It automates the generation of Software Products License Keys, ensuring a seamless and secure distribution process for clients.
 
-Invoice and Quotation Automation:
+* Invoice and Quotation Automation:
 
 The application streamlines invoicing and quotation processes, providing a hassle-free experience for administrators. This not only saves time but also reduces the risk of errors.
 
@@ -33,18 +33,12 @@ Efficiently track and manage payments associated with software services. Real-ti
 
 It incorporates concurrent software license implementation, allowing companies to optimize their software usage efficiently. This feature ensures that clients can make the most out of their software licenses.
 
-Dynamic Analytic Charts:
+* Dynamic Analytic Charts:
 
 The inclusion of dynamic analytic charts elevates the user experience by offering visual insights into key metrics. Admins can easily interpret data, make informed decisions, and monitor the overall health of their software services.
 
 
 ---
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/S1.png">
