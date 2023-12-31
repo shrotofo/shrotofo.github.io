@@ -3,7 +3,7 @@ title: 'SAAS MODEL'
 subtitle: 'Created during my full-stack developer internship'
 date: 2018-06-30 00:00:00
 description: Software As A Service Model using ReactJS NodeJS MYSQL
-featured_image: '/images/SSAS.jfif'
+featured_image: '/images/SSAS.jpg'
 ---
 
 
