@@ -1,80 +1,43 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'SAAS MODEL'
+subtitle: 'Created during my full-stack developer internship'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Software As A Service Model using ReactJS NodeJS MYSQL
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Overview
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+ANVIN-SAAS is a user-friendly web application designed to help company administrators efficiently manage clients who have purchased software services. The core functionalities revolve around auto-generated Software Products License Keys, Invoices, Quotations, and Payment tracking.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Key Features:
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
+* Auto-Generated Software Products License Keys:
+<div>
 	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+It automates the generation of Software Products License Keys, ensuring a seamless and secure distribution process for clients.
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+Invoice and Quotation Automation:
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+The application streamlines invoicing and quotation processes, providing a hassle-free experience for administrators. This not only saves time but also reduces the risk of errors.
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+* Payment Tracking:
+
+Efficiently track and manage payments associated with software services. Real-time updates provide a clear overview of payment statuses, enhancing financial transparency.
+
+* Concurrent Software License Implementation:
+
+It incorporates concurrent software license implementation, allowing companies to optimize their software usage efficiently. This feature ensures that clients can make the most out of their software licenses.
+
+Dynamic Analytic Charts:
+
+The inclusion of dynamic analytic charts elevates the user experience by offering visual insights into key metrics. Admins can easily interpret data, make informed decisions, and monitor the overall health of their software services.
+
 
 ---
 
@@ -96,11 +59,3 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
