@@ -19,11 +19,11 @@ ANVIN-SAAS is a user-friendly web application designed to help company administr
 
 * Auto-Generated Software Products License Keys:
 
-It automates the generation of Software Products License Keys, ensuring a seamless and secure distribution process for clients.
+It automates the generation of Software Products License Keys, ensuring a seamless process for clients.
 
 * Invoice and Quotation Automation:
 
-The application streamlines invoicing and quotation processes, providing a hassle-free experience for administrators. This not only saves time but also reduces the risk of errors.
+The application streamlines invoicing and quotation processes, providing a hassle-free experience for administrators.
 
 * Payment Tracking:
 
@@ -31,8 +31,7 @@ Efficiently track and manage payments associated with software services. Real-ti
 
 * Concurrent Software License Implementation:
 
-It incorporates concurrent software license implementation, allowing companies to optimize their software usage efficiently. This feature ensures that clients can make the most out of their software licenses.
-
+It incorporates concurrent software license implementation, allowing companies to optimize their software usage efficiently.
 * Dynamic Analytic Charts:
 
 The inclusion of dynamic analytic charts elevates the user experience by offering visual insights into key metrics. Admins can easily interpret data, make informed decisions, and monitor the overall health of their software services.
@@ -52,6 +51,10 @@ The inclusion of dynamic analytic charts elevates the user experience by offerin
 	<img src="/images/S9.png">
 	<img src="/images/S10.png">
 </div>
+### Technology Used
+
+* Frontend - ReactJS(Javascript,HTML,CSS)
+* Backend - MySQL, Node.js
 
 ### Application Peak
 
