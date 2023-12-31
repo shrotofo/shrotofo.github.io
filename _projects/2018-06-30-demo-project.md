@@ -12,7 +12,11 @@ featured_image: '/images/SAAS.jfif'
 
 ANVIN-SAAS is a user-friendly web application designed to help company administrators efficiently manage clients who have purchased software services. The core functionalities revolve around auto-generated Software Products License Keys, Invoices, Quotations, and Payment tracking.
 
-Key Features:
+<div>
+	<img src="/images/S_STRUC.png">
+</div>
+
+## Key Features
 
 * Auto-Generated Software Products License Keys:
 
