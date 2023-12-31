@@ -1,106 +1,63 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Fauna'
+subtitle: 'Social React-Native App'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+description: Connecting Animal Lovers Worldwide
+featured_image: '/images/SSAS.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Overview
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Fauna is not just a social media app; it's a vibrant community specially crafted for animal enthusiasts. With a user-friendly interface and a plethora of features, Fauna brings together pet owners from around the globe.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+## Key Features
+* Pet Profiles:
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Log in and create personalized profiles for your beloved pets. Share their adorable pictures, unique characteristics, and favorite activities.
 
-You can create lists:
+* Discover Animal Owners:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+Scroll through a diverse community of animal owners and connect with like-minded individuals who are passionate about pets.
 
-And:
+Chat Functionality:
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+Engage in real-time conversations with fellow pet owners. 
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+Picture Uploads:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+Easily upload and share pictures of furry, feathery, or scaly friends, and enjoy the admiration of the Fauna community.
 
-The theme also supports markdown tables:
+Feed Exploration:
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+Stay updated on the latest happenings in the animal kingdom. Scroll through feeds, filled with posts from other Pets.
+AI Chat Bot:
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
+Have questions about pets, need advice, or just want a friendly chat? The AI bot can provide informative and entertaining conversations.
 
 ---
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/S1.png">
+	<img src="/images/S2.png">
+	<img src="/images/S3.png">
+	<img src="/images/S4.png">
+	<img src="/images/S5.png">
+	<img src="/images/S6.png">
+	<img src="/images/S7.png">
+	<img src="/images/S8.png">
+	<img src="/images/S9.png">
+	<img src="/images/S10.png">
 </div>
+### Technology Used
 
-### What about videos?
+* Frontend - ReactNative
+* Backend - Firebase
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+### Application Peak
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="[[[https://player.vimeo.com/video/148003889](https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=sharing)https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=sharin](https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=drive_link)g](https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=drive_link)https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=drive_link" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
 
 ---
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
