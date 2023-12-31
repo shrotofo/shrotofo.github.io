@@ -44,14 +44,22 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/S1.png">
+	<img src="/images/S2.png">
+	<img src="/images/S3.png">
+	<img src="/images/S4.png">
+	<img src="/images/S5.png">
+	<img src="/images/S6.png">
+	<img src="/images/S7.png">
+	<img src="/images/S8.png">
+	<img src="/images/S9.png">
+	<img src="/images/S10.png">
 </div>
 
 ### What about videos?
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="[https://player.vimeo.com/video/148003889](https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=sharing)https://drive.google.com/file/d/1tBqqZEW16QpNrQ94cqjLP1DS2OsMx3JD/view?usp=sharing" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
