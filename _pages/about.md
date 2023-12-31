@@ -1,32 +1,16 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Enthusiastic newcomer to the software industry, I prioritize mastery over breadth, and I'm open to learning new technologies and exploring various aspects of the engineering world.
+description: Enthusiastic newcomer to the software industry, I prioritize mastery over breadth, and I'm open to learning new technologies and exploring various aspects of the engineering world.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+Hey there! 🚀 I'm a second-year Computer Science and Design student at the Singapore University of Technology and Design, navigating the wild world of software engineering. I've got this major crush on both software/AI and IoT technology—it's a love story in the making! 💻
 
-We've packed Personal full of powerful features to help showcase your work:
+When I'm not decoding the secrets of the software universe, you can catch me passionately diving into the realms of animal welfare and healthcare. I'm on a mission to sprinkle some tech magic and make a real impact in these fields. ✨
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+But wait, there's more to me than just code and circuits! In my free time, you'll find me striking yoga poses, spreading good vibes through volunteering, and, believe it or not, being a detective of sorts in the world of investigative journalism. 🔍
 
-## Get Personal
+Let's connect and chat tech, yoga, or maybe even swap some investigative stories! 🤓🌍
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
