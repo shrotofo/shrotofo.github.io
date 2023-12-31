@@ -8,5 +8,4 @@ featured_image: /images/demo/contact.jpg
 	<img src="/images/CV.png">
 </div>
 
-{% include contact-form.html %}
 
