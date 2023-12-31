@@ -3,7 +3,7 @@ title: 'Fauna'
 subtitle: 'Social React-Native App-Connecting Animal Lovers Worldwide'
 date: 2018-06-30 00:00:00
 description: ReactNative, Firebase
-featured_image: '/images/FAUNA.jpg'
+featured_image: '/images/FAUNA.PNG'
 ---
 
 
@@ -38,16 +38,16 @@ Have questions about pets, need advice, or just want a friendly chat? The AI bot
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/F1.png">
-	<img src="/images/F2.png">
-	<img src="/images/F3.png">
-	<img src="/images/F4.png">
-	<img src="/images/F5.png">
-	<img src="/images/F6.png">
-	<img src="/images/F7.png">
-	<img src="/images/F8.png">
-	<img src="/images/F9.png">
-	<img src="/images/F10.png">
+	<img src="/images/F1.PNG">
+	<img src="/images/F2.PNG">
+	<img src="/images/F3.PNG">
+	<img src="/images/F4.PNG">
+	<img src="/images/F5.PNG">
+	<img src="/images/F6.PNG">
+	<img src="/images/F7.PNG">
+	<img src="/images/F8.PNG">
+	<img src="/images/F9.PNG">
+	<img src="/images/F10.PNG">
 </div>
 ### Technology Used
 
