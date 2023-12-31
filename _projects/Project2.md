@@ -3,7 +3,7 @@ title: 'Fauna'
 subtitle: 'Social React-Native App-Connecting Animal Lovers Worldwide'
 date: 2018-06-30 00:00:00
 description: ReactNative, Firebase
-featured_image: '/images/FAUNA.PNG'
+featured_image: '/images/PET.png'
 ---
 
 
