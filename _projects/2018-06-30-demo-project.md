@@ -6,13 +6,12 @@ description: Software As A Service Model using ReactJS NodeJS MYSQL
 featured_image: '/images/SAAS.jfif'
 ---
 
-![](/images/SAAS.jfif)
 
 ## Overview
 
 ANVIN-SAAS is a user-friendly web application designed to help company administrators efficiently manage clients who have purchased software services. The core functionalities revolve around auto-generated Software Products License Keys, Invoices, Quotations, and Payment tracking.
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
 	<img src="/images/S_STRUC.png">
 </div>
 
