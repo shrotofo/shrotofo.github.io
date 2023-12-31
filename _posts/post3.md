@@ -1,11 +1,11 @@
 ---
-title: 'Demo Post'
+title: 'Passport Specialist Junior Intern'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+description:  honning skills in efficient document verification and fostering strong cross-cultural communication abilities
+featured_image: '/images/INDIA.jfif'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+
 
 ## Demo content
 
