@@ -2,7 +2,7 @@
 title: About me
 subtitle: Enthusiastic newcomer to the software industry, I prioritize mastery over breadth, and I'm open to learning new technologies and exploring various aspects of the engineering world.
 description: Enthusiastic newcomer to the software industry, I prioritize mastery over breadth, and I'm open to learning new technologies and exploring various aspects of the engineering world.
-featured_image: /images/photo1704019258.jpg
+featured_image: /images/photo1704019258.jpeg
 ---
 
 Hey there! 🚀 I'm a second-year Computer Science and Design student at the Singapore University of Technology and Design, navigating the wild world of software engineering. I've got this major crush on both software/AI and IoT technology—it's a love story in the making! 💻
