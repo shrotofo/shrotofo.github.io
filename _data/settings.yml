@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
+    - title: 'CV'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Portfolio
 
 hero_settings:
   overlay_opacity: 0.8
