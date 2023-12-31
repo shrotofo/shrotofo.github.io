@@ -15,10 +15,6 @@ ANVIN-SAAS is a user-friendly web application designed to help company administr
 Key Features:
 
 * Auto-Generated Software Products License Keys:
-<div>
-	<img src="/images/demo/demo-landscape.jpg">
-	
-</div>
 
 It automates the generation of Software Products License Keys, ensuring a seamless and secure distribution process for clients.
 
