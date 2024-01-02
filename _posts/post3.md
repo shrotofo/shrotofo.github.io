@@ -1,6 +1,6 @@
 ---
 title: 'Passport Specialist Junior Intern'
-date: 2018-06-30 00:00:00
+date: 2020-06-30 00:00:00
 description:  honning skills in efficient document verification and fostering strong cross-cultural communication abilities
 featured_image: '/images/INDIA.jfif'
 ---
