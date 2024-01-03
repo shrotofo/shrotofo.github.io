@@ -13,4 +13,8 @@ But wait, there's more to me than just code and circuits! In my free time, you'l
 
 Let's connect and chat tech, yoga, or maybe even swap some investigative stories! 🤓🌍
 
+> “the good life is a process accquired through experiances, not a state of being,It is a direction not a destination”
+-Carl Rogers-founder of humanistic pyschology
+
+
 
