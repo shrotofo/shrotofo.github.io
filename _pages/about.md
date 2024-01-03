@@ -22,5 +22,7 @@ By Carl Rogers- The founder of humanistic pyschology
 	<img src="/images/1.png">
 </div>
 
+This diagram illustrates the transformative journey of my life experiences, showcasing the pivotal moments that led me to self-discovery and exploration of my passions. Through this unique odyssey, I have sculpted not only my personality but also cultivated a profound enthusiasm for engineering.
+
 
 
