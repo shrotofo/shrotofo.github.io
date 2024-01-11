@@ -3,7 +3,7 @@ title: 'Dermalyze'
 subtitle: 'Defend, Detect, Diagnose your skin condition in one click'
 date: 2018-06-30 00:00:00
 description: AndroidAppStudio (java,kotlin), ML Model-TensorFlow
-featured_image: '/images/Screenshot (245).png'
+featured_image: '/images/skin_logo.png'
 ---
 
 
