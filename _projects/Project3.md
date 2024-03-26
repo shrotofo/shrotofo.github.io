@@ -16,9 +16,10 @@ Analyzes , Checks symptoms and predicts result
 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/s1.PNG">
-	<img src="/images/s2.PNG">
-	<img src="/images/s3.PNG">
+	<img src="/images/sk1.PNG">
+	<img src="/images/sk2.PNG">
+	<img src="/images/sk3.PNG">
+	<img src="/images/sk5.PNG">
  <img src="/images/s4.PNG">
 	
 </div>
